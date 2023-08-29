@@ -1,0 +1,12 @@
+sessionid 69267
+results_directory /home/theghub/kurtrlindberg/data/results/69267
+filexfer_port 9008
+filexfer_cookie afcMPIlP5mxU5HK8
+filexfer_decoration
+
+application_name "Jupyter Lab (202210)"
+version 2
+session_token PdXStS3fxr2lb18AuU6tK3Ukj7pwsEz8
+hub_name theghub
+hub_url https://theghub.org
+job_protocol exec
